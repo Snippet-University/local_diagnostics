@@ -1,5 +1,5 @@
 # local_diagnostics
-The 2nd stage for projects that did not pass calibration or 1st stage diagnostics testing. 
+The 2nd stage for projects that did not pass calibration or 1st stage diagnostics testing. It serves as a hold-over for backlogs and dropbox for fixes. 
 
 Introduction to the Local Diagnostics Workbench
 
